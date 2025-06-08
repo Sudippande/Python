@@ -7,3 +7,4 @@ Student.objects.create(name='sudip',age=23)
 
 #get all student
 students=Student.objects.all()
+#this is just example.
